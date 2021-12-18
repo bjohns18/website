@@ -1,0 +1,30 @@
+/*Brandon Johns 12/17*/
+body{
+    background-color: turquoise;
+}
+.header {
+    padding: 20px;
+    text-align: center;
+    background: white;
+    color: turquoise;
+    font-size: 20pt;
+    float: right;
+  }
+.title{
+    color:whitesmoke;
+    font-family: monospace;
+    font-size: 30pt;
+}
+.footer{
+    color: white;
+    font-family: sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: center;
+}
+.caption{
+    color: white;
+    font-family: initial;
+    font-size: 12pt;
+    font-weight: bold;
+}

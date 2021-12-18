@@ -1,0 +1,53 @@
+/*Brandon Johns 12/7*/
+body{
+    color:black;
+    font-family:monospace;
+    font-size: large;
+}
+h2{
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.post-title{
+    color: red;
+}
+.imgcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sborder{
+    border:20px black;
+}
+h3{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24pt;
+}
+h4{
+    color: goldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24pt;
+}
+h5{
+    color:gray;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+h6{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 12pt;
+}
+.anchor{
+    color: white;
+    font-family: sans-serif;
+}
+.copyright{
+    color: gray;
+    font-family: monospace;
+    font-size: 10pt;
+    font-style: italic;
+    text-align: center;
+}
